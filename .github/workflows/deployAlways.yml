@@ -19,7 +19,7 @@ jobs:
         with:
           server:  ftp-naderzonweb.alwaysdata.net # Change if using another host
           username: naderzonweb
-          password: clase4321
+          password: zed_bf8WHZHTtBw
           server-dir: www/ # Replace with your correct path
           protocol: ftps
           timeout: 86400000
