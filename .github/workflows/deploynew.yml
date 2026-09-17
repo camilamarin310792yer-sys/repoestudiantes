@@ -2,7 +2,8 @@ name: 🚀 Tarea de Despliegue
 
 on:
    push:
-     branches: YERIS
+     branches:
+        - main 
        
 
 jobs:
