@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 850">
+<defs><linearGradient id="g" x2="0" y2="1"><stop stop-color="#9ca7b6"/><stop offset="1" stop-color="#303b4b"/></linearGradient></defs>
+<rect width="1600" height="850" fill="url(#g)"/><rect y="570" width="1600" height="280" fill="#242b35"/>
+<!-- grand hall -->
+<polygon points="170,850 340,250 1260,250 1430,850" fill="#d8d0c3"/>
+<polygon points="420,850 520,330 1080,330 1180,850" fill="#ece7dd"/>
+<!-- columns -->
+<g fill="#c5bdaf"><rect x="365" y="290" width="65" height="560"/><rect x="1170" y="290" width="65" height="560"/><rect x="520" y="340" width="50" height="510"/><rect x="1030" y="340" width="50" height="510"/></g>
+<!-- central doorway -->
+<path d="M690 850V465q0-100 110-100t110 100v385" fill="#263244"/><path d="M730 850V480q0-58 70-58t70 58v370" fill="#516074"/>
+<!-- windows -->
+<g fill="#71869a" stroke="#f0eadf" stroke-width="10"><rect x="455" y="420" width="110" height="220"/><rect x="1035" y="420" width="110" height="220"/></g>
+<!-- stairs and reception -->
+<polygon points="500,850 1100,850 1010,705 590,705" fill="#b4aa9c"/>
+<rect x="610" y="630" width="380" height="90" rx="8" fill="#6d4a36"/><rect x="650" y="585" width="300" height="55" rx="8" fill="#835b40"/>
+<!-- chandelier -->
+<g stroke="#d4b25e" fill="none" stroke-width="5"><path d="M800 0v150"/><circle cx="800" cy="180" r="55"/><path d="M760 210l-35 70M840 210l35 70"/></g>
+<g fill="#e3c56e"><circle cx="730" cy="285" r="12"/><circle cx="870" cy="285" r="12"/><circle cx="800" cy="275" r="14"/></g>
+<!-- people -->
+<g fill="#171e2a"><circle cx="420" cy="675" r="18"/><path d="M400 695h40l22 80h-84z"/><circle cx="1160" cy="675" r="18"/><path d="M1140 695h40l22 80h-84z"/></g>
+</svg>
